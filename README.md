@@ -1,2 +1,2 @@
 # AlmaZohar
-Image classification notebooks
+A binary classification model
